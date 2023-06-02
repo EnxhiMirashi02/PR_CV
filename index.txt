@@ -10,8 +10,7 @@ Education   Bachelor in Telecommunication Engineering, Faculty of Information Te
 
             
 
-About me     I have a great passion for programming and I want to build a successful career. One of my main goals at the moment besides my degree is to be offered an internship opportunity as I have a lot of ambition and will to continue. I am determined to develop my skills over time and to create excellent projects that will make a difference in the world of technology. I am ready to face challenges, with dedication and continuous work I aim to gain new knowledge and achieve excellent results in career.
-
+About me      I have a great passion for programming and I want to build a successful career. One of my main goals at the moment besides my degree is to be offered an internship opportunity as I have a lot of ambition and will to continue. I am determined to develop my skills over time and to create excellent projects that will make a difference in the world of technology. I am ready to face challenges, with dedication and continuous work I aim to gain new knowledge and achieve excellent results in career.
 
 
 Skills      -HTML
